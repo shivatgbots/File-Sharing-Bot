@@ -28,7 +28,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@ultroid_support ](https://www.telegram.dog/ultroid_support)**
 
 **Make sure to see [contributing.md](https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
 
@@ -50,11 +50,11 @@ I Guess This Will Be Usefull For Many People.....😇.
 #### Deploy on Heroku
 **BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
-<a href="https://youtu.be/LCrkRTMkmzE">
+<a href="https://www.youtube.com/watch?v=BeNBEYc-q7Y">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
 **Check This Tutorial Video on YouTube for any Help**<br>
-**Thanks to [Erich](https://t.me/ErichDaniken) and his [InFoTel](https://t.me/InFoTel_Group) for this Video**
+**Thanks to [blank](https://t.me/blank_blankx) and his [ultroidofficial](https://t.me/ultroidofficial) for this Video**
 
 #### Deploy on Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/1jKLr4)
@@ -79,17 +79,17 @@ python3 main.py
 ### Admin Commands
 
 ```
-/start - start the bot or get posts
+start - start the bot or get posts
 
-/batch - create link for more than one posts
+batch - create link for more than one posts
 
-/genlink - create link for one post
+genlink - create link for one post
 
-/users - view bot statistics
+users - view bot statistics
 
-/broadcast - broadcast any messages to bot users
+broadcast - broadcast any messages to bot users
 
-/stats - checking your bot uptime
+stats - checking your bot uptime
 ```
 
 ### Variables
@@ -135,7 +135,7 @@ python3 main.py
 
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/ultroidofficial_support) For Support/Assistance And Our [Channel](https://www.telegram.dog/ultroidofficial) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
